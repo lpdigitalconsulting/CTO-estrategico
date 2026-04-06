@@ -1,1 +1,1 @@
-# CTO-estrategico
+# Fractional CTO LP
